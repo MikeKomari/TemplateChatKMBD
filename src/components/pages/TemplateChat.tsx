@@ -38,6 +38,7 @@ const TemplateChat = () => {
           >
             <option value="Pagi">Pagi</option>
             <option value="Siang">Siang</option>
+            <option value="Sore">Sore</option>
             <option value="Malam">Malam</option>
           </select>
           <Input
