@@ -8,8 +8,8 @@ import { AllTemplateChat } from "../ChatData";
 import Chat from "../Chat";
 
 const TemplateChat = () => {
-  const [medParName, setMedParName] = useState<string>("");
-  const [daytime, setDaytime] = useState<string>("");
+  const [medParName, setMedParName] = useState<string>("NAMAMEDPAR");
+  const [daytime, setDaytime] = useState<string>("Pagi");
   const [isBuddhist, setIsBuddhist] = useState<boolean>(true);
   const location = useLocation();
 
