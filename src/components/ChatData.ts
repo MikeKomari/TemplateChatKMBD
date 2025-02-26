@@ -15,7 +15,7 @@ Magha Puja adalah hari suci yang memperingati berkumpulnya 1.250 Bhikkhu yang te
 
 Melalui pesan ini, kami ingin mengundang ${"${medParName ? medParName : 'medpar'}"} untuk bekerja sama berupa menjadi media partner kami dalam acara Magha Puja 2568 B.E./2025 yang akan diselenggarakan pada:
 Hari, tanggal	: Minggu, 9 Maret 2025
-Waktu		    : 12.00 s.d. 16:30 WIB
+Waktu		  : 12.00 s.d. 16:30 WIB
 Tempat	        : Ruang Auditorium (Lt.8) Gedung Narada Vihara Jakarta Dhammacakka Jaya
 
 Acara Magha Puja ini kami laksanakan dengan mengangkat tema “Spreading The Light of Enlightenment” dengan tujuan untuk menyebarkan kesadaran, kedamaian, dan kebajikan dalam masyarakat. 
@@ -40,11 +40,11 @@ Waktu		    : 12.00 s.d. 16.30 WIB
 Tempat	        : Ruang Auditorium (Lt.8) Gedung Narada Vihara Jakarta Dhammacakka Jaya
 
 Adapun rincian kegiatan yang akan dilaksanakan dalam acara Magha Puja 2568 B.E./2025 dengan tema “Spreading The Light of Enlightenment” yaitu:
-Puja Bakti 
-Dhammatalk
-Pelimpahan Jasa dan Blessing 
-Meditasi
-Games
+  1. Puja Bakti 
+  2. Dhammatalk
+  3. Pelimpahan Jasa dan Blessing 
+  4. Meditasi
+  5. Games
 
 Bersamaan dengan pesan ini, saya juga melampirkan proposal Media Partnership yang telah dirancang dengan terperinci sebagai bahan pertimbangan Bapak/Ibu untuk bekerja sama dengan kegiatan kami. 
 
@@ -96,17 +96,17 @@ Kami senang hati bahwa ${"${medParName ? medParName : 'medpar'}"} telah bersedia
 
 Sebelumnya, kami juga ingin bertanya apakah pihak ${"${medParName ? medParName : 'medpar'}"} telah memilih paket Media Partner tertentu? Jika sudah, saya izin meminta data yang perlu Bapak/Ibu lengkapi untuk pengisian MoA sebagai berikut:
 
-Nama Lengkap	: 
+Nama Lengkap	:
 
-Instansi		: 
+Instansi	:
 
-Jabatan		    : 
+Jabatan		:
 
-Email			: 
+Email		:
 
-No. Telp		:    
+No. Telp	:
 
-Alamat			:
+Alamat		:
 
 Sekali lagi saya ucapkan terima kasih telah menerima kerja sama dengan Keluarga Mahasiswa Buddhis Dhammavaddhana (KMBD) BINUS University, dan kami menantikan pencapaian luar biasa yang akan kita raih bersama. 
 `,
